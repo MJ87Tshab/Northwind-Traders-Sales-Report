@@ -17,7 +17,7 @@ Northwind Traders Sales Data. The primary datasets used for this analysis are th
 
 ### Tools
 
-- Excel - Data Cleaning [Download here](https://microsoft.com)
+- Excel - Data Cleaning
 - Power BI - Creating report and dashboard
 
 ### Data Cleaning/Preparation
@@ -26,5 +26,25 @@ Initial data preparation included the below tasks:
 
 1. Data loading and inspection
 2. Data cleaning and formatting
+
+### Exploratory Data Analysis
+
+I explored the different datasets to answer the key questions below:
+
+- Which product categories are selling well in the first half of 2015?
+- Which country has the highest sales?
+- The company that has the highest orders and sales?
+- The month which had peak sales and revenue?
+
+### Findings
+
+The results of my analysis are noted below as follows:
+1. The company's revenue has increased steadily with a noticeable decline in May'15.
+2. USA was the country with the highest sales
+3. Côte de Blaye was the best performing product based on revenue.
+4. Beverages were the best sold category and should be targeted for marketing efforts.
+
+
+
 
 
