@@ -1,5 +1,10 @@
 # Northwind Traders Sales Report
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Recommendations](#recommendations)
+
 ## Project Overview
 
 This data analysis project aims to provide insights into Northwind Traders sales performances in the first half of the 2015 year. Through the analysis of their product performance and customer's sales behaviour, we aim to identify key trends to gain an in depth understanding of the company's performance.
@@ -44,6 +49,13 @@ The results of my analysis are noted below as follows:
 3. Côte de Blaye was the best performing product based on revenue.
 4. Beverages were the best sold category and should be targeted for marketing efforts.
 
+### Recommendations
+
+Based on the analysis, we recommend the following actions:
+
+- Increased focus in promotions and further expansion in the beverages category.
+- Invest more in products with high sales to increase revenue.
+- Create a market strategy targeting customers in Sweden, UK and Venezuela to improve market share.
 
 
 
