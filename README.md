@@ -6,6 +6,8 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning & Preparation](#data-cleaning-&-preparation)
+- [Exploratory Data Analysis](#explaratory-data-analysis)
+- [Findings](#findings)
 - [Recommendations](#recommendations)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 
