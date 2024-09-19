@@ -4,6 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Recommendations](#recommendations)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 
 ## Project Overview
 
