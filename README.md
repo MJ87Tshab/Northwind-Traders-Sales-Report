@@ -3,12 +3,18 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning & Preparation](#data-cleaning-&-preparation)
 - [Recommendations](#recommendations)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 
 ## Project Overview
 
 This data analysis project aims to provide insights into Northwind Traders sales performances in the first half of the 2015 year. Through the analysis of their product performance and customer's sales behaviour, we aim to identify key trends to gain an in depth understanding of the company's performance.
+
+![Northwind Traders Sales Dashboard](https://github.com/user-attachments/assets/05b72358-a210-49bf-9b43-37712e170c91)
+
 
 ### Data Sources
 
@@ -26,7 +32,7 @@ Northwind Traders Sales Data. The primary datasets used for this analysis are th
 - Excel - Data Cleaning
 - Power BI - Creating report and dashboard
 
-### Data Cleaning/Preparation
+### Data Cleaning & Preparation
 
 Initial data preparation included the below tasks:
 
@@ -39,8 +45,8 @@ I explored the different datasets to answer the key questions below:
 
 - Which product categories are selling well in the first half of 2015?
 - Which country has the highest sales?
-- The company that has the highest orders and sales?
-- The month which had peak sales and revenue?
+- Which company had the highest orders and sales?
+- Identify the month that had peak sales and revenue and the month with the lowest sales and revenue?
 
 ### Findings
 
@@ -57,7 +63,6 @@ Based on the analysis, we recommend the following actions:
 - Increased focus in promotions and further expansion in the beverages category.
 - Invest more in products with high sales to increase revenue.
 - Create a market strategy targeting customers in Sweden, UK and Venezuela to improve market share.
-
 
 
 
